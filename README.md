@@ -4,8 +4,7 @@ This guide provides instructions on how to set up the Python environment require
 
 ## Leaderboard & AI-Challenge Webpage
 
-- [Teachable Machine Student Contest Leaderboard](https://nicohambauer.github.io/teachable-machine-student-contest/)
-
+- [Teachable Machine Student Contest Leaderboard](https://machinelearninguq.github.io/teachable-machine-student-contest/)
 ## Tool for AI Model Training
 
 - [Teachable Machine by Google](https://teachablemachine.withgoogle.com)
